@@ -1,4 +1,8 @@
-﻿# 破甲（astrbot_plugin_pojia）v5.1
+# 破甲（astrbot_plugin_pojia）v5.1
+
+![stars](https://img.shields.io/github/stars/jqs113/astrbot_plugin_pojia?style=flat-square)
+![downloads](https://img.shields.io/github/downloads/jqs113/astrbot_plugin_pojia/total?style=flat-square)
+![release](https://img.shields.io/github/v/release/jqs113/astrbot_plugin_pojia?style=flat-square)
 
 会话级破甲插件。**v4 已彻底移除本地中文段子库**，所有内容都由模型生成。
 
