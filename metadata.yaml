@@ -1,0 +1,8 @@
+name: astrbot_plugin_pojia
+display_name: 破甲
+desc: 拒绝阶梯：直连重试 + 术语表翻译通道（按条合并）。本地库已移除，全部内容由模型生成。
+short_desc: 纯模型输出的破甲插件，无本地库。
+version: v5.1.0
+author: dsh
+astrbot_version: ">=4.9.2,<5"
+repo: https://github.com/jqs113/astrbot_plugin_pojia
